@@ -1,2 +1,1 @@
-# Whether-App
-Weather-App
+# Weather-App
